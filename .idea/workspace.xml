@@ -6,6 +6,15 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select>
       <path>
@@ -87,10 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.test" />
         <item itemvalue="Node.js.serverpgr.mjs" />
         <item itemvalue="Node.js.server.mjs" />
-        <item itemvalue="npm.test" />
         <item itemvalue="JavaScript Debug.to-send-html.html" />
+        <item itemvalue="Node.js.serverpgr.mjs" />
       </list>
     </recent_temporary>
   </component>
@@ -287,10 +297,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="855" y="426" key="VCS.EditChangelistDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1623345263200" />
-    <state x="624" y="212" key="Vcs.Push.Dialog.v2" timestamp="1623347096768">
+    <state x="624" y="212" key="Vcs.Push.Dialog.v2" timestamp="1623347690912">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="624" y="212" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1623347096768" />
+    <state x="624" y="212" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1623347690912" />
     <state x="409" y="232" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1623343839427">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
