@@ -11,13 +11,13 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:featureBranchpgr" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da7d6c7d-dee3-49d5-bad6-d42afe00c2b0" name="Default Changelist" comment="Initial push">
-      <changelist_data name="Patrick Gruenenfelder" email="patrick.gruenenefelder@ost.ch" />
+      <change beforePath="$PROJECT_DIR$/1-Node/Vorlage/File.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/1-Node/Vorlage/File.mjs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,11 @@
       <list>
         <option value="Patrick Gruenenfelder &lt;patrick.gruenenefelder@ost.ch&gt;" />
       </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -102,7 +107,7 @@
       <updated>1623308839025</updated>
       <workItem from="1623308840163" duration="16356000" />
       <workItem from="1623345076223" duration="566000" />
-      <workItem from="1623345664215" duration="49000" />
+      <workItem from="1623345664215" duration="965000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Push">
       <created>1623343505935</created>
@@ -125,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623344661443</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initial push">
+      <created>1623345851306</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1623345851306</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,7 +154,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="featureBranchpgr" />
                       </list>
                     </value>
                   </entry>
@@ -158,7 +170,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Push" />
     <MESSAGE value="Initial Push complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Push complete" />
+    <MESSAGE value="Initial push" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial push" />
   </component>
   <component name="WindowStateProjectService">
     <state x="838" y="363" key="#Usage_Scope" timestamp="1623312831436">
@@ -274,10 +287,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="855" y="426" key="VCS.EditChangelistDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1623345263200" />
-    <state x="624" y="212" key="Vcs.Push.Dialog.v2" timestamp="1623344877888">
+    <state x="624" y="212" key="Vcs.Push.Dialog.v2" timestamp="1623347096768">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="624" y="212" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1623344877888" />
+    <state x="624" y="212" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1623347096768" />
     <state x="409" y="232" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1623343839427">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -294,11 +307,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/1-Node/Vorlage/File.mjs</url>
-          <line>9</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/1-Node/Solution/Routing/file.mjs</url>
           <line>6</line>
