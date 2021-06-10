@@ -3,22 +3,7 @@
   "description": "",
   "version": "1.0.0",
   "main": "index.js",
-  "type": "module",
-  "scripts": {
-    "test": "echo \"No Infos\" && exit..."
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/patrickost/WebEngineering2U1.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/patrickost/WebEngineering2U1.git/issues"
-  },
-  "homepage": "https://github.com/patrickost/WebEngineering2U1.git",
-  "dependencies": {
+  "type": "module"
   }
-}
+
 

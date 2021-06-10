@@ -75,7 +75,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="npm.tests">
+  <component name="RunManager" selected="Node.js.serverpgr.mjs">
     <configuration name="to-send-html.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Übung/1-Node/Vorlage/to-send-html.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -85,7 +85,10 @@
     <configuration name="serverpgr.mjs" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="serverpgr.mjs" working-dir="$PROJECT_DIR$/1-Node/Vorlage">
       <method v="2" />
     </configuration>
-    <configuration name="tests" type="js.build_tools.npm">
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1-Node/test.js" working-dir="$PROJECT_DIR$/1-Node">
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm">
       <package-json value="$PROJECT_DIR$/1-Node/package.json" />
       <command value="run" />
       <scripts>
@@ -99,11 +102,13 @@
       <item itemvalue="JavaScript Debug.to-send-html.html" />
       <item itemvalue="Node.js.server.mjs" />
       <item itemvalue="Node.js.serverpgr.mjs" />
-      <item itemvalue="npm.tests" />
+      <item itemvalue="Node.js.test.js" />
+      <item itemvalue="npm.test" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.serverpgr.mjs" />
+        <item itemvalue="Node.js.test.js" />
         <item itemvalue="Node.js.server.mjs" />
         <item itemvalue="JavaScript Debug.to-send-html.html" />
         <item itemvalue="Node.js.serverpgr.mjs" />
@@ -174,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623349636975</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Kommentar eingefügt">
+      <created>1623349788675</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1623349788675</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,6 +233,10 @@
     </state>
     <state x="479" y="151" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2046.991@0.0.2046.991" timestamp="1623308858325" />
     <state x="479" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1623349736086" />
+    <state x="243" y="303" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1623350454696">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="243" y="303" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1623350454696" />
     <state width="948" height="466" key="DebuggerActiveHint" timestamp="1623339597359">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -229,30 +245,30 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="805" y="298" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1623345402964" />
-    <state width="500" height="308" key="GridCell.Tab.0.bottom" timestamp="1623349739210">
+    <state width="500" height="308" key="GridCell.Tab.0.bottom" timestamp="1623350370327">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1394" height="266" key="GridCell.Tab.0.bottom/0.0.2046.991@0.0.2046.991" timestamp="1623313124816" />
     <state width="2027" height="376" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.-3.2560.1400@0.0.2048.1112" timestamp="1623322914693" />
-    <state width="500" height="308" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1623349739210" />
-    <state width="500" height="308" key="GridCell.Tab.0.center" timestamp="1623349739210">
+    <state width="500" height="308" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1623350370327" />
+    <state width="500" height="308" key="GridCell.Tab.0.center" timestamp="1623350370327">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1394" height="266" key="GridCell.Tab.0.center/0.0.2046.991@0.0.2046.991" timestamp="1623313124816" />
     <state width="2027" height="376" key="GridCell.Tab.0.center/0.0.2048.1112/2560.-3.2560.1400@0.0.2048.1112" timestamp="1623322914693" />
-    <state width="500" height="308" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1623349739210" />
-    <state width="500" height="308" key="GridCell.Tab.0.left" timestamp="1623349739210">
+    <state width="500" height="308" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1623350370327" />
+    <state width="500" height="308" key="GridCell.Tab.0.left" timestamp="1623350370327">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1394" height="266" key="GridCell.Tab.0.left/0.0.2046.991@0.0.2046.991" timestamp="1623313124816" />
     <state width="2027" height="376" key="GridCell.Tab.0.left/0.0.2048.1112/2560.-3.2560.1400@0.0.2048.1112" timestamp="1623322914693" />
-    <state width="500" height="308" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1623349739210" />
-    <state width="500" height="308" key="GridCell.Tab.0.right" timestamp="1623349739210">
+    <state width="500" height="308" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1623350370327" />
+    <state width="500" height="308" key="GridCell.Tab.0.right" timestamp="1623350370327">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1394" height="266" key="GridCell.Tab.0.right/0.0.2046.991@0.0.2046.991" timestamp="1623313124816" />
     <state width="2027" height="376" key="GridCell.Tab.0.right/0.0.2048.1112/2560.-3.2560.1400@0.0.2048.1112" timestamp="1623322914693" />
-    <state width="500" height="308" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1623349739210" />
+    <state width="500" height="308" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1623350370327" />
     <state width="1002" height="378" key="GridCell.Tab.1.bottom" timestamp="1623345055065">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -326,10 +342,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="855" y="426" key="VCS.EditChangelistDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1623345263200" />
-    <state x="624" y="212" key="Vcs.Push.Dialog.v2" timestamp="1623349638261">
+    <state x="624" y="212" key="Vcs.Push.Dialog.v2" timestamp="1623349818360">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="624" y="212" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1623349638261" />
+    <state x="624" y="212" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1623349818360" />
     <state x="409" y="232" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1623343839427">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -338,6 +354,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="413" y="404" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1623343809463" />
+    <state x="169" y="261" key="run.anything.popup" timestamp="1623350548425">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="169" y="261" key="run.anything.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1623350548425" />
     <state x="855" y="347" key="svn.repositoryBrowser" timestamp="1623345355753">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
